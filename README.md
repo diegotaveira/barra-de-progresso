@@ -1,2 +1,3 @@
-![d](https://user-images.githubusercontent.com/95540354/160504976-053d4943-e4f1-423b-a13e-6d3d7a704f8d.png)
+![Sequência-01](https://user-images.githubusercontent.com/95540354/161429288-a9e9a078-a20b-4429-8f68-54d320a58ce7.gif)
+
 # barra-de-progresso
